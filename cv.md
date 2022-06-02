@@ -23,3 +23,6 @@ function multiply(a, b){
 ## Education:
 Kaliningrad State Technical University
 ***
+## Languages
+* Russian - Native
+* English - A1
