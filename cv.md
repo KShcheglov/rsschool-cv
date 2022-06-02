@@ -20,3 +20,6 @@ function multiply(a, b){
 }
 ```
 ***
+## Education:
+Kaliningrad State Technical University
+***
